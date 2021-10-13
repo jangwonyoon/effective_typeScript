@@ -1,7 +1,9 @@
 # Effective TypeScirpt 정리
 
 <div style="flex">
-    <img src="./img/type.png">
+  <p align='center'>
+    <img src="./img/type.png.jpg">
+  </p>
 </div>
 
 ## ✔ 독서 및 정리 계획
