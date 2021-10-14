@@ -16,7 +16,7 @@
 
 |            chapter            |             링크             |
 | :---------------------------: | :--------------------------: |
-|    Chapter1. 타입스크립트 알아보기     | [:link:](./record/) |
+|    Chapter1. 타입스크립트 알아보기     | [:link:](./record/chapter1.md) |
 | Chapter2. 타입스크립트의 타입 시스템 |     [:link:](./record/)      |
 |    Chapter3. 타입 추론   |     [:link:](./record/)      |
 | Chapter4. 타입 설계  |     [:link:](./record/)      |
